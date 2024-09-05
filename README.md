@@ -8,7 +8,7 @@ I'm a self-taught passionate FiveM lua Developer from Germany
 - ❤️ I love writing Lua
 
 - 💬 Ask me about anything [here](https://github.com/141reaper/141reaper/issues)
-<img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" /><img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=html&logoColor=white" />
+[<img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />] [<img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=html&logoColor=white" />]
 
 
 [<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />](https://discord.com/users/1042446188756082708) [<img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />](https://twitch.tv/141reaper)
