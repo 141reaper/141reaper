@@ -3,7 +3,7 @@ I'm a self-taught passionate FiveM lua Developer from Germany
 
 **About me**
 
-- 📈 Built rpr_fpsmenu and more coming soon...
+- 📈 Built rpr_barkeeper, rpr_vehicleutils and more coming soon...
 
 - ❤️ I love writing Lua
 
